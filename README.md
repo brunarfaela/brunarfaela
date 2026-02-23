@@ -2,6 +2,7 @@
 <p> Estou cursando Desenvolvimento de Sistemas </p>
 <p> Gosto de Front End </p>
 <p> Gosto de treinar </p>
+Linguagens que vamos trabalhar nesse ano: Python, JavaScript, HTML5 e CSS
 <p> </p>
 
 
