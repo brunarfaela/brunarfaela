@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bruna and I'm a girl, from Brazil</h2>
-<p> Estou cursando Desenvolvilmento de Sistemas </p>
+<p> Estou cursando Desenvolvimento de Sistemas </p>
 <p> Gosto de Front End </p>
 <p> Gosto de treinar </p>
 <p> </p>
