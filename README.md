@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome e Bruna.</h2>
+<h2 align="left">Hi 👋! Meu nome é Bruna.</h2>
 <p> Estou cursando Desenvolvimento de Sistemas </p>
 <p> Gosto de Front End </p>
 <p> Gosto de treinar </p>
