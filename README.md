@@ -3,7 +3,12 @@
 <p> Gosto de Front End </p>
 <p> Gosto de treinar </p>
 <p> </p>
-
+nome = "Bruna,"
+idade = 16
+altura = 1.56
+cor_de_pele = "branca"
+hobby = "treinar."
+print ("Olá Mundo, eu me chamo",nome, "eu tenho", idade , "anos, tenho", altura, "de altura, minha cor de pele é", cor_de_pele, "e eu gosto de", hobby  )
 
 
 
