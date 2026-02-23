@@ -1,15 +1,8 @@
-<h2 align="left">Hi 👋! My name is Bruna and I'm a girl, from Brazil</h2>
+<h2 align="left">Hi 👋! Meu nome e Bruna.</h2>
 <p> Estou cursando Desenvolvimento de Sistemas </p>
 <p> Gosto de Front End </p>
 <p> Gosto de treinar </p>
 <p> </p>
-nome = "Bruna,"
-idade = 16
-altura = 1.56
-cor_de_pele = "branca"
-hobby = "treinar."
-print ("Olá Mundo, eu me chamo",nome, "eu tenho", idade , "anos, tenho", altura, "de altura, minha cor de pele é", cor_de_pele, "e eu gosto de", hobby  )
-
 
 
 <div align="left">
